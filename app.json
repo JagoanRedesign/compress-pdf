@@ -6,9 +6,9 @@
   "website": "https://github.com/m4mallu/compress-pdf-tg-bot",
   "repository": "https://github.com/m4mallu/compress-pdf-tg-bot",
   "env": {
-        "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "TG_BOT_TOKEN": {"description": "Get Bot Token From @BotFather Bot", "required": true},
+        "APP_ID": {"description": "Get this value from https://my.telegram.org", "value": "5784397162:AAEeRjN3HfHaUir5Z-NzBYwcmfGggDOG1-k"},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "value": "b726ce690552a5707dd80294907f39e1"},
+        "TG_BOT_TOKEN": {"description": "Get Bot Token From @BotFather Bot", "value": "14962060"},
         "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
   },
   "buildpacks": [
