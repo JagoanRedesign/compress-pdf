@@ -1,6 +1,6 @@
 class Presets(object):
     WELCOME_TXT = "<b>Halo.. {}</b>\n<i>Saya dapat mengompres ukuran dokumen pdf. Kirimi saya dokumen pdf untuk" \
-                  "dikompres</i> "
+                  " dikompres</i> "
     INVALID_FORMAT = "<b>Error:</b>\n<i>Saya hanya dapat mengompres dokumen pdf. Harap pastikan, Anda telah memberi saya " \
                      "dokumen yang sah. Coba lagi...</i>"
     WAIT_MESSAGE = "⌛️ <b>Pemrosesan</b> ⌛"
