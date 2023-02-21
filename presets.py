@@ -6,8 +6,8 @@ class Presets(object):
     WAIT_MESSAGE = "⌛️ <b>Pemrosesan</b> ⌛"
     DOWNLOAD_MSG = "⌛️ <b>Mengunduh</b> ⌛"
     UPLOAD_MSG = "⌛️ <b>Mengunggah</b> ⌛"
-    FINISHED_BAR = "◼️"
-    UN_FINISHED_BAR = "◻️"
+    FINISHED_BAR = "■"
+    UN_FINISHED_BAR = "□"
     FINISHED_DL = "<b>Sukses !</b>\n<i>Dokumen berhasil diunduh.</i>"
     START_COMPRESSING = "⌛️ <b>Pemrosesan</b>  ⌛\n<i>Mencoba mengompres dokumen.</i>"
     FINISHED_JOB = "<b>Sukses</b> ☑ \n\n<i>Size before:<b> {}</b>\nSize after: <b>{}</b>\n\nSupport by: </i><a " \
