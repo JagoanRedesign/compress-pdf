@@ -4,7 +4,7 @@
   "keywords": ["telegram", "pdf", "size", "compressor", "robot"],
   "logo": "https://veryutils.com/image/cache/mpseller/customer-5/pdf-compress-logo-500x500.png",
   "website": "https://github.com/m4mallu/compress-pdf-tg-bot",
-  "repository": "https://github.com/m4mallu/compress-pdf-tg-bot",
+  "repository": "https://github.com/JagoanRedesign/compress-pdf",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "value": "5784397162:AAEeRjN3HfHaUir5Z-NzBYwcmfGggDOG1-k"},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "value": "b726ce690552a5707dd80294907f39e1"},
@@ -12,12 +12,9 @@
         "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
   },
   "buildpacks": [
-    {
-      "url": "heroku/python"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-    }
+		{
+			"url": "heroku/python"
+		}
   ],
   "formation": {
     "worker": {
