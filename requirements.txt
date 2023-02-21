@@ -1,4 +1,4 @@
 pyrogram==1.4.8
 TgCrypto
 humanize
-PDFNetPython3==3.11.2
+PDFNetPython3==3.9.16
