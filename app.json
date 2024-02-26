@@ -2,6 +2,7 @@
     "name": "Random Anime Image Bot",
     "description": "This Bot Can Generate Random Anime Images",
     "repository": "https://github.com/JagoanRedesign/compress-pdf",
+    "stack": "heroku-20",
       "keywords": ["telegram", "pdf", "size", "compressor", "robot"],
     "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "value": "14962060"},
